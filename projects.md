@@ -13,5 +13,6 @@ permalink: /projects/
   </nav>
 </header>
 <div class="content list">
-![sd](perf.png)
+
 </div>
+![sd](perf.png)
