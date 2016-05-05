@@ -15,8 +15,6 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//leyth.xyz/about"
   - name:           "Blog"
     href:           "//leyth.xyz/blog"
   - name:           "Projects"
