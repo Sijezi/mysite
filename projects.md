@@ -13,7 +13,7 @@ permalink: /projects/
   </nav>
 </header>
 
-Neighborhood Map | JavaScript, HTML & CSS
+Neighborhood Map | <span style="color: gray">JavaScript, HTML & CSS</span>
 ----------------------------------------
 
 
