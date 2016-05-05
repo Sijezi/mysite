@@ -38,3 +38,15 @@ Used the red-green-refactor workflow to develop the UdaciFeeds project. I was gi
 [![feed reader](../img/udacifeed.png)](http://wehelie.github.io/feed-reader/)
 
 * * * 
+
+Website Optimization | <span style="color:  #D85950">JavaScript, HTML & CSS</span>
+----------------------------------------
+I resolved a number of optimization and performance related issues so that the provided application can achieve a target PageSpeed score and run 60 frames per second. Through this project, I discovered easy-to-implement performance gains while also developing a simple and a powerful model for uncovering optimization opportunities.
+
+* * * 
+
+[![performance](../img/perf.png)](http://wehelie.github.io/projectfour/)
+
+* * * 
+
+
