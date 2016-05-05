@@ -12,8 +12,5 @@ permalink: /projects/
     {% endfor %}
   </nav>
 </header>
-<div class="content list">
-![per](../img/perf.png)
-
-</div>
-![per](../img/perf.png)
+#Neighborhood Map | JavaScript, HTML & CSS
+![per](../img/hood.png)
