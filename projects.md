@@ -19,4 +19,4 @@ I developed a single-page application in KnockoutJS framework. The project featu
 
 
 
-<img src="../img/hood.png" alt='neighborhood map" width="640">
+<p><img src="../img/hood.png" alt='neighborhood map" width="640"></p>
