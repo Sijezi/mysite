@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /projects/
 ---
 <header class="masthead">        
   <h1 class="masthead-title">
