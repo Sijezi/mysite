@@ -15,4 +15,4 @@ permalink: /projects/
 <div class="content list">
 
 </div>
-![sd](perf.png)
+![per](../img/perf.png)
