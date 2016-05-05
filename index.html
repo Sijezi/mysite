@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /blog/
 ---
 <header class="masthead">        
   <h1 class="masthead-title">
@@ -11,11 +12,19 @@ layout: default
     {% endfor %}
   </nav>
 </header>
----
-title: About
-permalink: /about/
----
-
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
-
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+<div class="content list">
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% else %}
+{% for post in site.posts %}
+  <div class="list-item">
+    <h2 class="list-post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <div class="list-post-date">
+      <time>{{ post.date | date_to_string }}</time>
+    </div>
+  </div>
+{% endfor %}
+{% endif %}
+</div>
