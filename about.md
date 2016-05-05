@@ -13,5 +13,5 @@ permalink: /about/
   </nav>
 </header>
 <div class="content list">
-{about.md}
+{{about.md}}
 </div>
