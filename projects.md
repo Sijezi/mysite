@@ -14,4 +14,6 @@ permalink: /projects/
 </header>
  Neighborhood Map | JavaScript, HTML & CSS
 ==========================================
+
+
 ![per](../img/hood.png)
