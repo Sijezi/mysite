@@ -4,7 +4,7 @@ permalink: /projects/
 ---
 <header class="masthead">        
   <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/"><span> {{site.name}}</span> Layth</a>
+    <a href="{{ site.baseurl }}/"><span> {{site.name}}</span> Leyth</a>
   </h1>
   <nav class="masthead-nav">
     {% for nav in site.nav %}
