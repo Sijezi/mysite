@@ -29,9 +29,9 @@ UdaciFeeds: Feed Reader Testing | <span style="color:  #D85950">Jasmine</span>
 
 Used the red-green-refactor workflow to develop the UdaciFeeds project. I was given a web-based application that reads RSS feeds. The original developer of this application included Jasmine, but with incomplete test suites. I completed all the required tests by: 
 
-- <span style="color: #11BF36">Validating opinions</span>
-- <span style="color: #11BF36">Identifying and defining expectations</span> 
-- <span style="color: #11BF36">Writing expectations in code</span>
+- <span style="color: #D85950">Validating opinions</span>
+- <span style="color: #D85950">Identifying and defining expectations</span> 
+- <span style="color: #D85950">Writing expectations in code</span>
 
 * * * 
 
