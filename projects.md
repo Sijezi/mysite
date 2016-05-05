@@ -13,6 +13,7 @@ permalink: /projects/
   </nav>
 </header>
 <div class="content list">
+![per](../img/perf.png)
 
 </div>
 ![per](../img/perf.png)
