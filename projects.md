@@ -12,8 +12,10 @@ permalink: /projects/
     {% endfor %}
   </nav>
 </header>
- Neighborhood Map | JavaScript, HTML & CSS
-==========================================
+
+Neighborhood Map | JavaScript, HTML & CSS
+----------------------------------------
+
 
 
 ![per](../img/hood.png)
