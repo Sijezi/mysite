@@ -20,9 +20,9 @@ nav:
   - name:           "Blog"
     href:           "//leyth.xyz/blog"
   - name:           "Projects"
-    href:           "leyth.xyz/projects"
+    href:           "//leyth.xyz/projects"
   - name:           "Resume"
-    href:           "leyth.xyz/resume"
+    href:           "//leyth.xyz/resume"
 
 # Sass
 sass:
