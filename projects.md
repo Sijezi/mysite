@@ -49,4 +49,13 @@ I resolved a number of optimization and performance related issues so that the p
 
 * * * 
 
+Classic Arcade Game Clone  | <span style="color:  #D85950">JavaScript, HTML5 & CSS</span>
+----------------------------------------
+
+* * * 
+
+Provided with visual assets and a game loop engine, I used Object-Oriented Javascript and HTML5 Canvas to add a number of entities to the game. This included the player characters and enemies to recreate the classic arcade game Frogger.
+
+* * * 
+
 
