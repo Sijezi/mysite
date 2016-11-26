@@ -31,3 +31,7 @@ Then there are variations of A* (or pathfinding optimizations in general) that m
 SMA* (Simplified Memory-Bounded) - Only makes use of available memory to carry out the search.
 
 9. **Jump Point Search** - Speeds up pathfinding on uniform-cost grid maps (link).
+
+- - -
+
+source: [stackexchange](http://gamedev.stackexchange.com/questions/28041/path-finding-algorithms)
