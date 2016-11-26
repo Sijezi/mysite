@@ -2,7 +2,7 @@
 title: What is an Algorithm?
 ---
 
-![](../img/alg.png)
+![](https://github.com/wehelie/mysite/blob/gh-pages/img/alg.png?raw=true)
 
 The word 'algorithm' is a latinization of al-Khwārizmī<sup>[1](#myfootnote1)</sup>.
 
