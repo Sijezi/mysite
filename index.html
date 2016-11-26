@@ -15,6 +15,14 @@ title: About Me
 </header>
 <div class="content list">
   <h3 style="color:  #D85950">About Me</h3>
-<p class="lead"> My name is Leyth and I am a JavaScript Developer based in Seattle. I have a Bachelors in Geography with an emphasis in Methods of Geographical Analysis from San Diego State University and a Graduate Certificate in GIS from the University of Washington. I currently work as a Code Reviewer at <a href="https://www.udacity.com/">Udacity.</a></p>
+<p class="lead"> My name is Leyth and I am a JavaScript Developer based in Seattle, Washington. I currently work as a Code Reviewer at <a href="https://www.udacity.com/">Udacity.</a></p>
 <p class="lead">I am on <a href="https://github.com/wehelie">Github</a>, <a href="https://twitter.com/leyth_">Twitter</a> and <a href="https://www.linkedin.com/in/leyth">Linkedin</a></p>
 </div>
+
+{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+{% endif %}
