@@ -13,6 +13,19 @@ permalink: /projects/
   </nav>
 </header>
 
+User Interface (UI) | <span style="color:  #D85950">HTML & CSS</span>
+----------------------------------------
+I, along with teammates, built a UI for a bookstore website. We were given a mockup of the UI along with their assests. For the first phase of this project, we were only allowed to use `HTML` and `CSS`, meaning, we were not expected to build the functional tabs interfaces. Hence, no JavaScript was added.
+
+* * *
+
+
+[![map](../img/mockup.png)](https://wehelie.github.io/books-modern-developer/)
+
+* * *
+
+
+
 Neighborhood Map | <span style="color:  #D85950">JavaScript, HTML & CSS</span>
 ----------------------------------------
 I developed a single-page application in KnockoutJS framework. The project features a map of my neighborhood's parks and recreational centers utilizing google maps API. I added additional functionality to this application, including: map markers to identify locations, a search function to easily discover these locations, and a list-view to support simple browsing of all locations. I also included the FourSquare API to pull important location data.
@@ -20,7 +33,7 @@ I developed a single-page application in KnockoutJS framework. The project featu
 * * *
 
 
-[![map](../img/hood.png)](http://wehelie.github.io/neighborhood-map-project/)
+[![map](../img/hood.png)](https://wehelie.github.io/book-ui/)
 
 * * *
 
