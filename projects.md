@@ -20,7 +20,7 @@ I, along with teammates, built a UI for a bookstore website. We were given a moc
 * * *
 
 
-[![map](../img/mockup.png)](https://sijezi.github.io/book-ui/)
+[![book-ui](../img/mockup.png)](https://sijezi.github.io/book-ui/)
 
 * * *
 
