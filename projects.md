@@ -33,7 +33,7 @@ I developed a single-page application in KnockoutJS framework. The project featu
 * * *
 
 
-[![map](../img/hood.png)](https://sijezi.github.io/book-ui/)
+[![map](../img/hood.png)](http://sijezi.github.io/neighborhood-map-project/)
 
 * * *
 
