@@ -24,13 +24,13 @@ nav:
     
 social-icons:
  - title: GitHub
-   url: https://github.com/wehelie
+   url: https://github.com/sijezi
    class: github
  - title: LinkedIn
    url: https://www.linkedin.com/in/leyth
    class: linkedin
  - title: Twitter
-   url: https://twitter.com/leyth_
+   url: https://twitter.com/sijezi
    class: twitter
 # Sass
 sass:
