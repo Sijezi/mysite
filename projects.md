@@ -20,7 +20,7 @@ I, along with teammates, built a UI for a bookstore website. We were given a moc
 * * *
 
 
-[![map](../img/mockup.png)](https://wehelie.github.io/books-modern-developer/)
+[![map](../img/mockup.png)](https://sijezi.github.io/books-modern-developer/)
 
 * * *
 
@@ -33,7 +33,7 @@ I developed a single-page application in KnockoutJS framework. The project featu
 * * *
 
 
-[![map](../img/hood.png)](https://wehelie.github.io/book-ui/)
+[![map](../img/hood.png)](https://sijezi.github.io/book-ui/)
 
 * * *
 
@@ -48,7 +48,7 @@ Used the red-green-refactor workflow to develop the UdaciFeeds project. I was gi
 
 * * * 
 
-[![feed reader](../img/udacifeed.png)](http://wehelie.github.io/feed-reader/)
+[![feed reader](../img/udacifeed.png)](http://sijezi.github.io/feed-reader/)
 
 * * * 
 
@@ -58,7 +58,7 @@ I resolved a number of optimization and performance related issues so that the p
 
 * * * 
 
-[![performance](../img/perf.png)](http://wehelie.github.io/projectfour/)
+[![performance](../img/perf.png)](http://sijezi.github.io/projectfour/)
 
 * * * 
 
@@ -71,4 +71,4 @@ Provided with visual assets and a game loop engine, I used Object-Oriented Javas
 
 * * * 
 
-[![frogger](../img/frogger.png)](http://wehelie.github.io/project3/)
+[![frogger](../img/frogger.png)](http://sijezi.github.io/project3/)
