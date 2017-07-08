@@ -13,6 +13,18 @@ permalink: /projects/
   </nav>
 </header>
 
+Socket.IO — Chat | <span style="color:  #D85950">HTML & CSS</span>
+----------------------------------------
+A realtime chat application that is built with Node.JS and Socket.io. It simplifies online communciation by focusing on having as few moving parts as possible via socket.io library. 
+
+* * *
+
+
+[![chat-app](../img/chat.png)](https://uwjavascript200.herokuapp.com/)
+
+* * *
+
+
 User Interface (UI) | <span style="color:  #D85950">HTML & CSS</span>
 ----------------------------------------
 I, along with teammates, built a UI for a bookstore website. We were given a mockup of the UI along with their assests. For the first phase of this project, we were only allowed to use `HTML` and `CSS`, meaning, we were not expected to build the functional tabs interfaces. Hence, no JavaScript was added.
