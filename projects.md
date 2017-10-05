@@ -15,7 +15,7 @@ permalink: /projects/
 
 Socket.IO — Chat | <span style="color:  #D85950">HTML & CSS</span>
 ----------------------------------------
-A realtime chat application that is built with Node.JS and Socket.io. It simplifies online communciation by focusing on having as few moving parts as possible via socket.io library. 
+A realtime chat application that is built with Node.JS and Socket.io. It simplifies online communciation by focusing on having as few moving parts as possible via socket.io library.
 
 * * *
 
@@ -32,7 +32,7 @@ I, along with teammates, built a UI for a bookstore website. We were given a moc
 * * *
 
 
-[![book-ui](../img/mockup.png)](https://sijezi.github.io/book-ui/)
+[![book-ui](../img/mockup.png)](https://wehelie.github.io/book-ui/)
 
 * * *
 
@@ -45,42 +45,42 @@ I developed a single-page application in KnockoutJS framework. The project featu
 * * *
 
 
-[![map](../img/hood.png)](http://sijezi.github.io/neighborhood-map-project/)
+[![map](../img/hood.png)](http://wehelie.github.io/neighborhood-map-project/)
 
 * * *
 
 UdaciFeeds: Feed Reader Testing | <span style="color:  #D85950">Jasmine</span>
 ----------------------------------------
 
-Used the red-green-refactor workflow to develop the UdaciFeeds project. I was given a web-based application that reads RSS feeds. The original developer of this application included Jasmine, but with incomplete test suites. I completed all the required tests by: 
+Used the red-green-refactor workflow to develop the UdaciFeeds project. I was given a web-based application that reads RSS feeds. The original developer of this application included Jasmine, but with incomplete test suites. I completed all the required tests by:
 
 - <span style="color: #D85950">Validating opinions</span>
-- <span style="color: #D85950">Identifying and defining expectations</span> 
+- <span style="color: #D85950">Identifying and defining expectations</span>
 - <span style="color: #D85950">Writing expectations in code</span>
 
-* * * 
+* * *
 
-[![feed reader](../img/udacifeed.png)](http://sijezi.github.io/feed-reader/)
+[![feed reader](../img/udacifeed.png)](http://wehelie.github.io/feed-reader/)
 
-* * * 
+* * *
 
 Website Optimization | <span style="color:  #D85950">JavaScript, HTML & CSS</span>
 ----------------------------------------
 I resolved a number of optimization and performance related issues so that the provided application can achieve a target PageSpeed score and run 60 frames per second. Through this project, I discovered easy-to-implement performance gains while also developing a simple and a powerful model for uncovering optimization opportunities.
 
-* * * 
+* * *
 
-[![performance](../img/perf.png)](http://sijezi.github.io/projectfour/)
+[![performance](../img/perf.png)](http://wehelie.github.io/projectfour/)
 
-* * * 
+* * *
 
 Classic Arcade Game Clone  | <span style="color:  #D85950">JavaScript, HTML5 & CSS</span>
 ----------------------------------------
 
-* * * 
+* * *
 
 Provided with visual assets and a game loop engine, I used Object-Oriented Javascript and HTML5 Canvas to add a number of entities to the game. This included the player characters and enemies to recreate the classic arcade game Frogger.
 
-* * * 
+* * *
 
-[![frogger](../img/frogger.png)](http://sijezi.github.io/project3/)
+[![frogger](../img/frogger.png)](http://wehelie.github.io/project3/)
