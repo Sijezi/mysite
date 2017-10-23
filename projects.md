@@ -12,10 +12,32 @@ permalink: /projects/
     {% endfor %}
   </nav>
 </header>
+Unicode Character Tweeter Bot | <span style="color:  #D85950">NODE JS</span>
+----------------------------------------
+A twitter bot that tweets one unicode character every minute.
+
+* * *
+
+
+[![chat-app](../img/site.png)](https://wehelie.github.io/hn/)
+
+* * *
+
+Hacker News Reader Clone | <span style="color:  #D85950">HTML & CSS, JavaScript</span>
+----------------------------------------
+A very simple Reader written in HTML, CSS, and JavaScript.
+
+* * *
+
+
+[![chat-app](../img/hn.png)](https://wehelie.github.io/hn/)
+
+* * *
+
 
 Socket.IO — Chat | <span style="color:  #D85950">HTML & CSS</span>
 ----------------------------------------
-A realtime chat application that is built with Node.JS and Socket.io. It simplifies online communciation by focusing on having as few moving parts as possible via socket.io library.
+A realtime chat application that is built with Node.JS and Socket.io. It simplifies online communication by focusing on having as few moving parts as possible via socket.io library.
 
 * * *
 
