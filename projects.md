@@ -19,7 +19,7 @@ A twitter bot that tweets one unicode character every minute.
 * * *
 
 
-[![chat-app](../img/site.png)](https://wehelie.github.io/hn/)
+[![chat-app](../img/site.png)](https://tweetunicode.herokuapp.com/)
 
 * * *
 
