@@ -12,8 +12,10 @@ permalink: /projects/
     {% endfor %}
   </nav>
 </header>
+
 Unicode Character Tweeter Bot | <span style="color:  #D85950">NODE JS</span>
 ----------------------------------------
+
 A twitter bot that tweets one unicode character every minute.
 
 * * *
