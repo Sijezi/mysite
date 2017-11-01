@@ -21,7 +21,7 @@ A twitter bot that tweets one unicode character every minute.
 * * *
 
 
-[![chat-app](../img/site.png)](https://tweetunicode.herokuapp.com/)
+[![chat-app](../img/site.png)](https://t.co/sZ1Jn6byE8)
 
 * * *
 
